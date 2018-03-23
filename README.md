@@ -1,0 +1,1 @@
+# frontEnd-developer-evaluation-standard.md
